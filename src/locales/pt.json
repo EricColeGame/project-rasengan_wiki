@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Project Rasengan Wiki",
+    "shortName": "Project Rasengan",
+    "tagline": "Personagens, habilidades, guias e novidades",
+    "description": "O Project Rasengan Wiki reúne informações sobre o projeto ambientado no universo Naruto: anúncios, personagens, habilidades, guias e próximas atualizações de conteúdo para os fãs.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "codes": "Códigos",
+    "characters": "Personagens",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "controls": "Controles",
+    "news": "Notícias"
+  },
+  "home": {
+    "meta": {
+      "title": "Project Rasengan Wiki - Personagens, guias e novidades",
+      "description": "O Project Rasengan Wiki oferece guias detalhados, informações de personagens, anúncios, habilidades e novidades para os fãs que acompanham o conteúdo mais recente de Project Rasengan, inspirado em Naruto."
+    },
+    "hero": {
+      "eyebrow": "Projeto shinobi inspirado em Naruto",
+      "title": "Project Rasengan Wiki",
+      "description": "O Project Rasengan Wiki reúne informações sobre o projeto ambientado no universo Naruto: anúncios, personagens, habilidades, guias e próximas atualizações de conteúdo para os fãs.",
+      "stats": [
+        "Visitas totais",
+        "Personagens disponíveis",
+        "Códigos ativos",
+        "Atualizações diárias"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Jogar no Roblox",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Project Rasengan",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o controle de chakra, a escolha de jutsus e o básico das missões para parar de perder seus primeiros combates."
+        },
+        {
+          "number": "2",
+          "title": "Level up mais rápido",
+          "description": "Trace sua rota de XP das missões de história aos chefes e atravesse direto o trecho intermediário."
+        },
+        {
+          "number": "3",
+          "title": "Melhores personagens",
+          "description": "Compare níveis de raridade e funções de combate para escolher o lutador que combina com seu time."
+        },
+        {
+          "number": "4",
+          "title": "Todos os códigos",
+          "description": "Resgate códigos ativos para ganhar moeda grátis, impulsos de XP e cosméticos antes que expirem."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Level up mais rápido",
+        "Melhores personagens",
+        "Todos os códigos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Controle de chakra, escolha de jutsus e o básico das missões para suas primeiras horas.",
+          "href": "/guide/project-rasengan-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Códigos ativos para moeda grátis, impulsos e cosméticos, além dos passos de resgate.",
+          "href": "/codes/project-rasengan-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Melhores personagens",
+          "description": "Níveis de raridade e arquétipos de função classificados para cada etapa do jogo.",
+          "href": "/characters/project-rasengan-characters"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Guia de level up",
+          "description": "Combine missões de história, diárias e chefes para as rotas de XP mais rápidas.",
+          "href": "/progression/project-rasengan-leveling"
+        },
+        {
+          "badge": "Popular",
+          "title": "Habilidades e builds",
+          "description": "Ordem dos pontos de habilidade, arquétipos de build e prioridades de atributos que escalam.",
+          "href": "/progression/project-rasengan-best-build"
+        },
+        {
+          "badge": "Novo",
+          "title": "Controles e atalhos",
+          "description": "Layout completo de teclado, controle e toque para comandos mais limpos.",
+          "href": "/controls/project-rasengan-controls"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Project Rasengan?",
+      "paragraphs": [
+        "Project Rasengan é um RPG de ação inspirado em Naruto, construído em torno de combate ninja veloz, jutsus com selos de mão e mobilidade que recompensa a prática. Você cria um lutador, aprende habilidades movidas por chakra, cumpre missões ranqueadas e testa sua build contra outros jogadores em tempo real.",
+        "A progressão combina níveis de personagem, maestria de jutsus, pontos de atributo e uma escada de ranks de missão sobre arenas de PvP, encontros com chefes e missões diárias. Nossa wiki cobre todos os sistemas com guias para iniciantes, referências de atalhos, builds de habilidade e passo a passo."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "RPG de ação ninja"
+        },
+        {
+          "label": "Tema",
+          "value": "Inspirado em Naruto"
+        },
+        {
+          "label": "Jutsu marcante",
+          "value": "Rasengan"
+        },
+        {
+          "label": "Recurso principal",
+          "value": "Chakra"
+        },
+        {
+          "label": "Combate",
+          "value": "PvP em tempo real"
+        },
+        {
+          "label": "Progressão",
+          "value": "Escada de ranks"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore o Project Rasengan Wiki",
+      "description": "Domine Project Rasengan com guias para iniciantes, códigos ativos, referências completas de atalhos, builds de habilidade e rotas de progressão para cada etapa do jogo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia do jogo Project Rasengan",
+          "description": "Uma visão geral completa e amigável para iniciantes do conceito do jogo, sistemas centrais, objetivos e recursos que os novos jogadores precisam para começar e evoluir com eficiência.",
+          "href": "/guide/project-rasengan-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Conclua o tutorial e ajuste a sensibilidade da câmera e os atalhos nas Configurações"
+            },
+            {
+              "label": "2",
+              "detail": "Trate o chakra como munição e nunca esvazie a barra no meio da luta"
+            },
+            {
+              "label": "3",
+              "detail": "Monte um conjunto equilibrado: um jutsu à distância, um corpo a corpo e um de mobilidade ou defesa"
+            },
+            {
+              "label": "4",
+              "detail": "Faça missões de história e treino para conseguir XP, moeda e desbloqueios confiáveis"
+            },
+            {
+              "label": "5",
+              "detail": "Escolha uma build principal e melhore a sobrevivência antes do dano bruto"
+            },
+            {
+              "label": "6",
+              "detail": "Pratique posicionamento e tempo de esquiva em lutas de baixo risco antes do PvP ranqueado"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Project Rasengan",
+          "description": "Códigos de resgate ativos e expirados com instruções claras para resgatar recompensas, voltados a jogadores que buscam moeda grátis, impulsos e cosméticos.",
+          "href": "/codes/project-rasengan-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Impulso de XP",
+              "detail": "Os códigos costumam dar de 15 a 60 minutos de multiplicadores de XP ou de taxa de drop",
+              "badge": "Impulso"
+            },
+            {
+              "label": "Moeda",
+              "detail": "Concessões únicas de dinheiro do jogo ou fichas premium",
+              "badge": "Grátis"
+            },
+            {
+              "label": "Cosméticos",
+              "detail": "Skins, auras e acessórios permanentes vinculados à conta",
+              "badge": "Cosmético"
+            },
+            {
+              "label": "Reroll",
+              "detail": "Reinícios de atributos, traços ou habilidades de uso único para uma build nova",
+              "badge": "Utilitário"
+            },
+            {
+              "label": "Resgate",
+              "detail": "Insira os códigos pelo menu principal e digite à mão para evitar erros de espaço no final",
+              "badge": "Como fazer"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Controles de Project Rasengan",
+          "description": "Controles de teclado, controle e toque para movimento, câmera, jutsus e ações de combate, para que os jogadores aprendam rápido as mecânicas de batalha.",
+          "href": "/controls/project-rasengan-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "W A S D",
+              "detail": "Mova-se e corra pela arena"
+            },
+            {
+              "label": "Shift",
+              "detail": "Dash ou esquiva, o atalho mais importante de dominar"
+            },
+            {
+              "label": "Space",
+              "detail": "Pule e escale para se locomover e escapar"
+            },
+            {
+              "label": "Left Click",
+              "detail": "Ataque básico, encadeie golpes leves até um finalizador"
+            },
+            {
+              "label": "1 - 4",
+              "detail": "Slots de jutsu equipados para suas habilidades principais"
+            },
+            {
+              "label": "Q / R",
+              "detail": "Rajada de jutsu supremo com recarga longa"
+            },
+            {
+              "label": "Right Click",
+              "detail": "Bloqueie e defenda contra ataques recebidos"
+            },
+            {
+              "label": "Tab",
+              "detail": "Fixe um alvo e mantenha a pressão sobre ele"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Habilidades de Project Rasengan",
+          "description": "Habilidades, poderes no estilo Rasengan, melhorias de habilidade e técnicas de combate para jogadores que buscam builds mais fortes e melhores estratégias de luta.",
+          "href": "/progression/project-rasengan-skills",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jutsus centrais",
+              "detail": "Técnicas de dano primárias que toda build precisa primeiro"
+            },
+            {
+              "label": "Chakra",
+              "detail": "Reserva de energia, regeneração e custos de recarga"
+            },
+            {
+              "label": "Mobilidade",
+              "detail": "Dashes e ferramentas de reposicionamento para PvP e exploração"
+            },
+            {
+              "label": "Utilitário",
+              "detail": "Buffs, debuffs e controle de grupo para conteúdo em equipe"
+            },
+            {
+              "label": "Maestria",
+              "detail": "Pequenos ganhos permanentes de atributos que escalam no fim"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Progressão em Project Rasengan",
+          "description": "Sistemas de level, métodos de treino, requisitos de desbloqueio e rotas recomendadas para ir de iniciante a avançado.",
+          "href": "/progression/project-rasengan-leveling",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Complete missões de história e desbloqueie pontos de viagem rápida cedo"
+            },
+            {
+              "label": "2",
+              "detail": "Farme o inimigo mais forte que você consiga matar em dois ou três golpes"
+            },
+            {
+              "label": "3",
+              "detail": "Combine diárias, chefes e minijogos de treino para o XP não parar"
+            },
+            {
+              "label": "4",
+              "detail": "Suba personagem, maestria de jutsu e equipamento juntos para evitar paredes"
+            },
+            {
+              "label": "5",
+              "detail": "Suba a escada de ranks de missão para desbloquear missões mais lucrativas"
+            },
+            {
+              "label": "6",
+              "detail": "Junte-se em grupo para chefes e farme solo para velocidade máxima"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tier list de Project Rasengan",
+          "description": "Classifica personagens, habilidades e opções de combate importantes por eficácia para que os jogadores comparem escolhas e tomem melhores decisões de upgrade.",
+          "href": "/characters/project-rasengan-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Lutadores míticos e secretos com o maior teto de atributos e as melhores passivas"
+            },
+            {
+              "label": "A",
+              "detail": "Unidades lendárias com kits de ponta que valem grande investimento"
+            },
+            {
+              "label": "B",
+              "detail": "Unidades épicas que sustentam o meio do jogo e continuam viáveis no fim"
+            },
+            {
+              "label": "C",
+              "detail": "Raras e abaixo, degraus sólidos para substituir conforme você sobe"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Atualizações de Project Rasengan",
+          "description": "Anúncios oficiais, novos lançamentos de conteúdo, mudanças de balanceamento e eventos que mantêm os jogadores que retornam por dentro.",
+          "href": "/news/project-rasengan-new-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Balanceamento",
+              "detail": "Mudanças de dano, recarga e hitbox dos jutsus que movem o meta"
+            },
+            {
+              "label": "Novos jutsus",
+              "detail": "Novas habilidades e personagens com novas condições de desbloqueio"
+            },
+            {
+              "label": "Mundo",
+              "detail": "Novas zonas, marcos e rotas de deslocamento para explorar"
+            },
+            {
+              "label": "Economia",
+              "detail": "Ajustes de curvas de XP, taxas de drop e drenos de moeda"
+            },
+            {
+              "label": "Qualidade de vida",
+              "detail": "Melhorias de interface, configurações, atalhos e acessibilidade"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Comunidade de Project Rasengan",
+          "description": "Canais comunitários oficiais e links sociais onde os jogadores podem acompanhar notícias, discutir estratégias e se conectar com outros fãs.",
+          "href": "/news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Anúncios dos desenvolvedores, notas de patch e distribuição de códigos"
+            },
+            {
+              "label": "Criadores",
+              "detail": "Vídeos e lives com builds, combos e guias"
+            },
+            {
+              "label": "Fóruns",
+              "detail": "Discussões de jogadores sobre builds, confrontos e progressão"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Atualizações guiadas pela comunidade e pelos relatos dos jogadores"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Project Rasengan.",
+      "items": [
+        {
+          "question": "O que é Project Rasengan?",
+          "answer": "Project Rasengan é um RPG de ação inspirado em Naruto no Roblox. Você cria um shinobi, aprende jutsus movidos por chakra, cumpre missões ranqueadas e luta contra outros jogadores em combate em tempo real."
+        },
+        {
+          "question": "Como se controla Project Rasengan?",
+          "answer": "Project Rasengan é compatível com teclado e mouse, controle e toque. Movimento e câmera são comandos separados, as habilidades ficam em teclas numéricas ou botões frontais, e o dash ou a esquiva é o atalho mais importante de dominar."
+        },
+        {
+          "question": "Como funcionam os códigos de Project Rasengan?",
+          "answer": "Os códigos de Project Rasengan são sequências curtas que os desenvolvedores lançam para dar moeda grátis, impulsos de XP, cosméticos ou rerolls. Insira-os no campo de resgate do menu principal, digite à mão e resgate na conta em que você realmente joga."
+        },
+        {
+          "question": "Qual é a forma mais rápida de subir de nível em Project Rasengan?",
+          "answer": "Combine suas fontes de XP: conclua cedo as missões de história, farme inimigos que você mate em dois ou três golpes, guarde as diárias e forme grupo para chefes assim que forem desbloqueados."
+        },
+        {
+          "question": "Qual personagem de Project Rasengan devo escolher?",
+          "answer": "Escolha pela função, não só pela raridade. Um lutador de raridade média que preenche uma função em falta costuma render mais que um pull vistoso de raridade alta, então confira o kit de habilidades, o elemento e o encaixe no time antes de investir."
+        },
+        {
+          "question": "Como funciona o sistema de ranks de Project Rasengan?",
+          "answer": "Os ranks limitam o conteúdo que você pode acessar. Cada promoção desbloqueia jutsus mais fortes, níveis de missão superiores, lojas melhores e brackets de PvP separados, então subir de forma constante importa mais do que farmar uma única atividade."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Project Rasengan?",
+      "description": "Dos seus primeiros passos como shinobi aos jutsus avançados, nossa wiki comunitária cobre você com guias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Site oficial"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Project Rasengan: tutoriais e passo a passo para iniciantes",
+    "overviewDescription": "Comece aqui para encontrar guias de Project Rasengan para iniciantes, passo a passo de como jogar, o básico dos jutsus e dicas que colocam os novos shinobi em dia rápido."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Project Rasengan (outubro de 2026)",
+    "overviewDescription": "Todos os códigos ativos de Project Rasengan, com instruções de resgate passo a passo, o que cada recompensa dá e por que alguns códigos param de funcionar."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Project Rasengan",
+    "overviewDescription": "Todos os personagens de Project Rasengan: raridade, elemento, pontos fortes do kit e quais lutadores se encaixam em cada função de time."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Project Rasengan: combate e jutsus",
+    "overviewDescription": "Como o combate, o chakra, os jutsus com selos de mão, as missões e a habilidade Rasengan de Project Rasengan funcionam na prática."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em Project Rasengan: levels e builds",
+    "overviewDescription": "Rotas de level de Project Rasengan, o sistema de ranks, os pontos de habilidade e as melhores builds e composições de time para cada etapa."
+  },
+  "controls": {
+    "overviewTitle": "Controles e atalhos de Project Rasengan",
+    "overviewDescription": "Todos os esquemas de controle de Project Rasengan para teclado e mouse, controle e toque no Android e iOS, com os atalhos que vale a pena remapear."
+  },
+  "news": {
+    "overviewTitle": "Notícias e novidades de Project Rasengan",
+    "overviewDescription": "Data de lançamento de Project Rasengan, lançamento global, trailers oficiais e as últimas notas de patch e atualização."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leituras relacionadas",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Project Rasengan Wiki",
+    "about": "O Project Rasengan Wiki é um hub de guias independente feito por fãs que cobre personagens, habilidades, rotas de progressão, chefes e conhecimentos essenciais sobre o projeto ambientado no universo Naruto, tanto para fãs novos quanto veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "2026 Project Rasengan Wiki. Sem afiliação com Shueisha, VIZ Media ou Bandai Namco.",
+    "description": "Projeto shinobi inspirado em Naruto. Personagens, habilidades, guias, códigos e novidades.",
+    "playGame": "Jogar Project Rasengan",
+    "officialDiscord": "Site oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Ferramentas do Rasengan Wiki",
+    "beginnerGuide": "Guia para iniciantes",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço",
+    "characterGuides": "Guias de personagens",
+    "mechanicsGuides": "Combate e jutsus",
+    "progressionGuides": "Levels e builds"
+  }
+}

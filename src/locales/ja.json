@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Project Rasengan Wiki",
+    "shortName": "Project Rasengan",
+    "tagline": "キャラクター、能力、ガイド＆最新情報",
+    "description": "Project Rasengan Wiki は、ナルトの世界観を題材にしたプロジェクトに関する情報を提供します。お知らせ、キャラクター、能力、ガイド、今後のコンテンツ更新などをファン向けにまとめています。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "codes": "コード",
+    "characters": "キャラクター",
+    "mechanics": "ゲームシステム",
+    "progression": "成長・育成",
+    "controls": "操作",
+    "news": "ニュース"
+  },
+  "home": {
+    "meta": {
+      "title": "Project Rasengan Wiki - キャラクター、ガイド＆最新情報",
+      "description": "Project Rasengan Wiki は、ナルトを題材にした Project Rasengan の最新コンテンツを追うファン向けに、詳細なガイド、キャラクター情報、お知らせ、能力、更新情報を提供します。"
+    },
+    "hero": {
+      "eyebrow": "ナルトにインスパイアされた忍プロジェクト",
+      "title": "Project Rasengan Wiki",
+      "description": "Project Rasengan Wiki は、ナルトの世界観を題材にしたプロジェクトに関する情報を提供します。お知らせ、キャラクター、能力、ガイド、今後のコンテンツ更新などをファン向けにまとめています。",
+      "stats": [
+        "総訪問数",
+        "登場キャラクター数",
+        "有効なコード",
+        "毎日更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Roblox でプレイ",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Project Rasengan の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "チャクラ操作、術の選び方、ミッションの基本を学び、最初の戦闘で負け続けるのをやめましょう。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベル上げ",
+          "description": "ストーリークエストからボス周回へと経験値を積み上げ、中盤の作業を一気に突破しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "最強キャラクター",
+          "description": "レアリティ階層と戦闘での役割を比較し、チームに合うファイターを選びましょう。"
+        },
+        {
+          "number": "4",
+          "title": "全コード一覧",
+          "description": "無料通貨、経験値ブースト、コスメがもらえる有効なコードを期限切れ前に使いましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題のコンテンツ",
+      "quickLinks": [
+        "初心者ガイド",
+        "最速レベル上げ",
+        "最強キャラクター",
+        "全コード一覧"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初の数時間に必要なチャクラ操作、術の選び方、ミッションの基本。",
+          "href": "/guide/project-rasengan-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効なコード",
+          "description": "無料通貨、ブースト、コスメがもらえる有効なコードと引き換え手順。",
+          "href": "/codes/project-rasengan-codes"
+        },
+        {
+          "badge": "人気",
+          "title": "最強キャラクター",
+          "description": "ゲームのあらゆる段階に対応したレアリティ階層と役割別の評価。",
+          "href": "/characters/project-rasengan-characters"
+        },
+        {
+          "badge": "更新",
+          "title": "レベル上げガイド",
+          "description": "ストーリークエスト、デイリー、ボス周回を組み合わせた最速の経験値ルート。",
+          "href": "/progression/project-rasengan-leveling"
+        },
+        {
+          "badge": "人気",
+          "title": "スキル＆ビルド",
+          "description": "スキルポイントの振り順、ビルドの型、伸び続けるステータス優先度。",
+          "href": "/progression/project-rasengan-best-build"
+        },
+        {
+          "badge": "新着",
+          "title": "操作とキー割り当て",
+          "description": "キーボード、コントローラー、タッチの全レイアウトで操作を快適に。",
+          "href": "/controls/project-rasengan-controls"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Project Rasengan とは？",
+      "paragraphs": [
+        "Project Rasengan は、高速な忍者戦闘、印を結ぶ術、そして練習で上達する機動性を軸にしたナルト風アクション RPG です。ファイターを作り、チャクラを操る能力を学び、ランク制ミッションに挑み、リアルタイムで他プレイヤーとビルドを競い合えます。",
+        "成長要素はキャラクターレベル、術の熟練度、ステータスポイント、ミッションランクのはしごを、PvP アリーナ、ボス戦、デイリークエストの上に積み重なります。当ウィキでは初心者ガイド、キー割り当て一覧、スキルビルド、手順付き攻略で全システムを解説します。"
+      ],
+      "stats": [
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "忍者アクション RPG"
+        },
+        {
+          "label": "テーマ",
+          "value": "ナルト風"
+        },
+        {
+          "label": "代表的な術",
+          "value": "螺旋丸"
+        },
+        {
+          "label": "主要リソース",
+          "value": "チャクラ"
+        },
+        {
+          "label": "戦闘",
+          "value": "リアルタイム PvP"
+        },
+        {
+          "label": "成長",
+          "value": "ランクのはしご"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Project Rasengan Wiki を探索",
+      "description": "初心者ガイド、有効なコード、キー割り当て一覧、スキルビルド、あらゆる段階の成長ルートで Project Rasengan を極めましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Project Rasengan ゲームガイド",
+          "description": "ゲームのコンセプト、中核システム、目的、そして新規プレイヤーが効率よくプレイし成長するために必要な機能を、初心者向けにわかりやすくまとめた完全ガイド。",
+          "href": "/guide/project-rasengan-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "チュートリアルを終えたら、設定でカメラ感度とキー割り当てを調整する"
+            },
+            {
+              "label": "2",
+              "detail": "チャクラは弾薬のように扱い、戦闘中にゲージを空にしない"
+            },
+            {
+              "label": "3",
+              "detail": "遠距離・近接・機動または防御の術を1つずつ揃えたバランス型の構成を組む"
+            },
+            {
+              "label": "4",
+              "detail": "ストーリーと訓練ミッションをこなし、安定した経験値・通貨・解放を稼ぐ"
+            },
+            {
+              "label": "5",
+              "detail": "1つの主力ビルドを決め、火力より先に耐久力を強化する"
+            },
+            {
+              "label": "6",
+              "detail": "ランク戦の前に、リスクの低い戦闘で立ち回りと回避のタイミングを練習する"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Project Rasengan コード",
+          "description": "有効・期限切れの引き換えコードと、報酬を受け取るための明確な手順。無料通貨、ブースト、コスメを狙うプレイヤー向け。",
+          "href": "/codes/project-rasengan-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "経験値ブースト",
+              "detail": "コードは多くの場合、15〜60分の経験値またはドロップ率倍率を付与します",
+              "badge": "ブースト"
+            },
+            {
+              "label": "通貨",
+              "detail": "ゲーム内マネーやプレミアムトークンを1回だけ付与",
+              "badge": "無料"
+            },
+            {
+              "label": "コスメ",
+              "detail": "アカウントに紐づく永続スキン、オーラ、アクセサリー",
+              "badge": "コスメ"
+            },
+            {
+              "label": "リロール",
+              "detail": "新しいビルドのためにステータス・特性・能力を1回だけリセット",
+              "badge": "便利"
+            },
+            {
+              "label": "引き換え方法",
+              "detail": "メインメニューからコードを入力し、末尾の空白エラーを避けるため手入力する",
+              "badge": "やり方"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Project Rasengan 操作",
+          "description": "移動、カメラ、術、戦闘アクションのキーボード・コントローラー・タッチ操作。プレイヤーが戦闘システムを素早く学べるようにまとめました。",
+          "href": "/controls/project-rasengan-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "W A S D",
+              "detail": "アリーナを移動しダッシュする"
+            },
+            {
+              "label": "Shift",
+              "detail": "ダッシュまたは回避。最も習得すべき操作"
+            },
+            {
+              "label": "Space",
+              "detail": "ジャンプと登攀で移動や離脱を行う"
+            },
+            {
+              "label": "Left Click",
+              "detail": "通常攻撃。軽い連撃からフィニッシュへつなげる"
+            },
+            {
+              "label": "1 - 4",
+              "detail": "装備した術スロット。中核能力を発動する"
+            },
+            {
+              "label": "Q / R",
+              "detail": "長いクールダウンの奥義バースト"
+            },
+            {
+              "label": "Right Click",
+              "detail": "敵の攻撃をブロックしてガードする"
+            },
+            {
+              "label": "Tab",
+              "detail": "ターゲットをロックオンして圧力をかけ続ける"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Project Rasengan スキル",
+          "description": "能力、螺旋丸系のパワー、スキル強化、戦闘テクニック。より強いビルドと戦い方を求めるプレイヤー向け。",
+          "href": "/progression/project-rasengan-skills",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "中核の術",
+              "detail": "どのビルドでも最初に必要な主要ダメージ技術"
+            },
+            {
+              "label": "チャクラ",
+              "detail": "エネルギー量、回復、クールダウン消費"
+            },
+            {
+              "label": "機動",
+              "detail": "PvP と探索のためのダッシュや位置調整手段"
+            },
+            {
+              "label": "ユーティリティ",
+              "detail": "集団戦向けのバフ、デバフ、群衆制御"
+            },
+            {
+              "label": "熟練度",
+              "detail": "終盤で伸びる小さな永続ステータス上昇"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Project Rasengan 成長",
+          "description": "レベル上げシステム、訓練方法、解放条件、初心者から上級者へ成長するための推奨ルート。",
+          "href": "/progression/project-rasengan-leveling",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ストーリークエストを完了し、早めにファストトラベル地点を解放する"
+            },
+            {
+              "label": "2",
+              "detail": "2〜3発で倒せる中で最強の敵を周回する"
+            },
+            {
+              "label": "3",
+              "detail": "デイリー、ボス周回、訓練ミニゲームを重ねて経験値を稼ぎ続ける"
+            },
+            {
+              "label": "4",
+              "detail": "キャラクター、術の熟練度、装備を同時に育てて壁を避ける"
+            },
+            {
+              "label": "5",
+              "detail": "ミッションランクのはしごを登り、報酬の高いクエストを解放する"
+            },
+            {
+              "label": "6",
+              "detail": "ボスはパーティで、純粋な速度はソロで稼ぐ"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Project Rasengan ティアリスト",
+          "description": "重要なキャラクター、能力、戦闘選択肢を有効性でランク付けし、比較してより良い強化判断ができるようにします。",
+          "href": "/characters/project-rasengan-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "最高のステータス上限と優秀なパッシブを持つミシック＆シークレットのファイター"
+            },
+            {
+              "label": "A",
+              "detail": "多大な投資に値するトップ級の性能を持つレジェンダリー"
+            },
+            {
+              "label": "B",
+              "detail": "中盤を支え、終盤でも通用するエピック"
+            },
+            {
+              "label": "C",
+              "detail": "レア以下。登りながら入れ替えていく堅実な踏み台"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Project Rasengan アップデート",
+          "description": "公式のお知らせ、新コンテンツ、バランス調整、イベント。復帰プレイヤーが最新情報を追えるようにまとめました。",
+          "href": "/news/project-rasengan-new-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "バランス",
+              "detail": "術のダメージ、クールダウン、当たり判定の変更がメタを動かす"
+            },
+            {
+              "label": "新しい術",
+              "detail": "新しい解放条件を伴う新能力と新キャラクター"
+            },
+            {
+              "label": "ワールド",
+              "detail": "探索できる新エリア、ランドマーク、移動ルート"
+            },
+            {
+              "label": "経済",
+              "detail": "経験値カーブ、ドロップ率、通貨消費の調整"
+            },
+            {
+              "label": "快適性",
+              "detail": "UI、設定、キー割り当て、アクセシビリティの改善"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Project Rasengan コミュニティ",
+          "description": "プレイヤーがニュースを追い、戦略を語り、他のファンとつながれる公式コミュニティチャンネルとソーシャルリンク。",
+          "href": "/news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "開発者のお知らせ、パッチノート、コード配布"
+            },
+            {
+              "label": "クリエイター",
+              "detail": "ビルド、コンボ、ガイドを紹介する動画や配信"
+            },
+            {
+              "label": "フォーラム",
+              "detail": "ビルド、相性、成長についてのプレイヤー討論"
+            },
+            {
+              "label": "フィードバック",
+              "detail": "プレイヤーの報告によって形作られるコミュニティ主導の更新"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Project Rasengan に関する最も一般的な疑問への手早い回答。",
+      "items": [
+        {
+          "question": "Project Rasengan とは？",
+          "answer": "Project Rasengan は Roblox 上のナルト風アクション RPG です。忍を作り、チャクラを操る術を学び、ランク制ミッションに挑み、リアルタイム戦闘で他プレイヤーと戦います。"
+        },
+        {
+          "question": "Project Rasengan の操作方法は？",
+          "answer": "Project Rasengan はキーボード＆マウス、コントローラー、タッチに対応しています。移動とカメラは別入力で、能力は数字キーかフェイスボタンに割り当てられ、ダッシュまたは回避が最も重要な操作です。"
+        },
+        {
+          "question": "Project Rasengan のコードはどう使う？",
+          "answer": "Project Rasengan のコードは、開発者が無料通貨、経験値ブースト、コスメ、リロールを配るために公開する短い文字列です。メインメニューの引き換え欄に入力し、手打ちして、実際にプレイしているアカウントで引き換えましょう。"
+        },
+        {
+          "question": "Project Rasengan で最速にレベル上げする方法は？",
+          "answer": "経験値源を重ねましょう。序盤はストーリークエストを終わらせ、2〜3発で倒せる敵を周回し、デイリーを溜めて、ボスが解放されたらパーティで挑みます。"
+        },
+        {
+          "question": "Project Rasengan ではどのキャラクターを選ぶべき？",
+          "answer": "レアリティだけでなく役割で選びましょう。欠けた役割を埋める中レアのファイターは、派手な高レアの引きより大抵優れています。投資前に能力構成、属性、チーム適性を確認しましょう。"
+        },
+        {
+          "question": "Project Rasengan のランクシステムはどう機能する？",
+          "answer": "ランクはアクセスできるコンテンツを制限します。昇格ごとに強い術、上位ミッション、良いショップ、別の PvP 帯が解放されるので、1つの活動を周回するより着実に登る方が大切です。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Project Rasengan を極める準備はできた？",
+      "description": "最初の忍の一歩から高度な術まで、コミュニティウィキが無料で最新のガイドをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "公式サイト"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Project Rasengan ガイド：初心者向け攻略とチュートリアル",
+    "overviewDescription": "Project Rasengan の初心者ガイド、遊び方の手順、術の基本、新しい忍が素早く追いつくためのコツはここから始めましょう。"
+  },
+  "codes": {
+    "overviewTitle": "Project Rasengan コード（2026年10月）",
+    "overviewDescription": "有効な Project Rasengan コードの一覧と、手順付きの引き換え方法、各報酬の内容、一部のコードが使えなくなる理由を解説します。"
+  },
+  "characters": {
+    "overviewTitle": "Project Rasengan キャラクター",
+    "overviewDescription": "Project Rasengan の全キャラクターを網羅。レアリティ、属性、能力の強み、各チーム役割に合うファイターを紹介します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Project Rasengan ゲームシステム：戦闘と術",
+    "overviewDescription": "Project Rasengan の戦闘、チャクラ、印を結ぶ術、ミッション、螺旋丸が実際のプレイでどう機能するかを解説します。"
+  },
+  "progression": {
+    "overviewTitle": "Project Rasengan 成長：レベル上げとビルド",
+    "overviewDescription": "Project Rasengan のレベル上げルート、ランクシステム、スキルポイント、各段階で最適なビルドとチーム編成を紹介します。"
+  },
+  "controls": {
+    "overviewTitle": "Project Rasengan 操作とキー割り当て",
+    "overviewDescription": "キーボード＆マウス、コントローラー、Android、iOS タッチの全 Project Rasengan 操作体系と、変更する価値のあるキー割り当てを解説します。"
+  },
+  "news": {
+    "overviewTitle": "Project Rasengan ニュース＆更新",
+    "overviewDescription": "Project Rasengan のリリース日、グローバルローンチ、公式トレーラー、最新パッチと更新ノートをお届けします。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビ",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "もっと読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "Project Rasengan Wiki",
+    "about": "Project Rasengan Wiki は、ナルトの世界観を題材にしたプロジェクトについて、キャラクター、能力、成長ルート、ボス、必須知識をまとめた独立系ファン制作のガイドハブです。新規ファンにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Project Rasengan Wiki. 集英社、VIZ Media、バンダイナムコとは提携していません。",
+    "description": "ナルトにインスパイアされた忍プロジェクト。キャラクター、能力、ガイド、コード、更新情報。",
+    "playGame": "Project Rasengan をプレイ",
+    "officialDiscord": "公式サイト",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "Rasengan Wiki ツール",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "characterGuides": "キャラクターガイド",
+    "mechanicsGuides": "戦闘と術",
+    "progressionGuides": "レベル上げとビルド"
+  }
+}
