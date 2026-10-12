@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Project Rasengan Wiki",
+  shortName: "Project Rasengan",
+  logoText: "PR",
+  tagline: "Characters, Abilities, Guides & Updates",
+  description: "Project Rasengan Wiki provides information about the Naruto universe project, including announcements, characters, abilities, guides, and upcoming content updates for fans.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://project-rasengan.wiki",
+  supportEmail: "support@project-rasengan.wiki",
+  gameUrl: "https://www.roblox.com/",
+  heroVideoId: "TMZPtIoBV7g",
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.viz.com/press-releases/v/1006772",
+    youtube: "https://www.youtube.com/@NARUTO_BORUTO_officialchannel",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
