@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "controls": "Controls",
+    "news": "News"
   },
   "home": {
     "meta": {
@@ -440,7 +447,34 @@
       "secondary": "Official Website"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Project Rasengan Guide: Beginner Walkthroughs & Tutorials",
+    "overviewDescription": "Start here for Project Rasengan beginner guides, how-to-play walkthroughs, jutsu basics, and tips that get new shinobi up to speed fast."
+  },
+  "codes": {
+    "overviewTitle": "Project Rasengan Codes (October 2026)",
+    "overviewDescription": "All working Project Rasengan codes plus step-by-step redeem instructions, what each reward gives, and why some codes stop working."
+  },
+  "characters": {
+    "overviewTitle": "Project Rasengan Characters",
+    "overviewDescription": "Every Project Rasengan character covered: rarity, element, kit strengths, and which fighters fit each team role."
+  },
+  "mechanics": {
+    "overviewTitle": "Project Rasengan Mechanics: Combat & Jutsu",
+    "overviewDescription": "How Project Rasengan combat, chakra, hand-sign jutsu, missions, and the Rasengan ability actually work in play."
+  },
+  "progression": {
+    "overviewTitle": "Project Rasengan Progression: Leveling & Builds",
+    "overviewDescription": "Project Rasengan leveling routes, the rank system, skill points, and the best builds and team compositions for every stage."
+  },
+  "controls": {
+    "overviewTitle": "Project Rasengan Controls & Keybinds",
+    "overviewDescription": "Full Project Rasengan control schemes for keyboard and mouse, controller, Android, and iOS touch, with the binds worth remapping."
+  },
+  "news": {
+    "overviewTitle": "Project Rasengan News & Updates",
+    "overviewDescription": "Project Rasengan release date, global launch, official trailers, and the latest patch and update notes."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -471,10 +505,10 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Rasengan Wiki Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characterGuides": "Character Guides",
+    "mechanicsGuides": "Combat & Jutsu",
+    "progressionGuides": "Leveling & Builds"
   }
 }
