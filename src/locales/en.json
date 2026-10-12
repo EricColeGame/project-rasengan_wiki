@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn chakra control, jutsu picks, and mission basics so you stop losing your first fights."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Route your XP from story quests to boss runs and push straight through the mid-game grind."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Characters",
+          "description": "Compare rarity tiers and combat roles to pick the fighter that fits your team."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Project Rasengan."
+          "title": "All Codes",
+          "description": "Redeem working codes for free currency, XP boosts, and cosmetics before they expire."
         }
       ]
     },
@@ -66,237 +66,338 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
+        "Beginner Guide",
         "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Best Characters",
+        "All Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Chakra control, jutsu picks, and mission basics for your first few hours.",
+          "href": "/guide/project-rasengan-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Working codes for free currency, boosts, and cosmetics plus redeem steps.",
+          "href": "/codes/project-rasengan-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Characters",
+          "description": "Rarity tiers and role archetypes ranked for every stage of the game.",
+          "href": "/characters/project-rasengan-characters"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Leveling Guide",
+          "description": "Layer story quests, dailies, and boss runs for the fastest XP routes.",
+          "href": "/progression/project-rasengan-leveling"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Skills & Builds",
+          "description": "Skill point order, build archetypes, and stat priorities that scale.",
+          "href": "/progression/project-rasengan-best-build"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Controls & Keybinds",
+          "description": "Full keyboard, controller, and touch layout for cleaner inputs.",
+          "href": "/controls/project-rasengan-controls"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Project Rasengan?",
       "paragraphs": [
-        "Project Rasengan is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Project Rasengan is a Naruto-inspired action RPG built around fast ninja combat, hand-sign jutsu, and mobility that rewards practice. You create a fighter, learn chakra-driven abilities, run ranked missions, and test your build against other players in real time.",
+        "Progression layers character levels, jutsu mastery, stat points, and a mission rank ladder on top of PvP arenas, boss encounters, and daily quests. Our wiki covers every system with beginner guides, keybind references, skill builds, and step-by-step walkthroughs."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Ninja Action RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Theme",
+          "value": "Naruto-inspired"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Signature Jutsu",
+          "value": "Rasengan"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Core Resource",
+          "value": "Chakra"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Combat",
+          "value": "Real-time PvP"
+        },
+        {
+          "label": "Progression",
+          "value": "Rank Ladder"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Project Rasengan Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master Project Rasengan with beginner guides, active codes, full keybind references, skill builds, and progression routes for every stage of the game.",
       "modules": [
         {
           "order": 1,
-          "name": "Project Rasengan Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/project-rasengan-codes",
-          "displayType": "code-box",
+          "name": "Project Rasengan Game Guide",
+          "description": "A complete beginner-friendly overview of the game concept, core systems, objectives, and the features new players need to start playing and progress efficiently.",
+          "href": "/guide/project-rasengan-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Finish the tutorial, then tune camera sensitivity and keybinds in Settings"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Treat chakra like ammunition and never empty the bar mid-fight"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Build a balanced loadout: one ranged, one melee, one mobility or defensive jutsu"
+            },
+            {
+              "label": "4",
+              "detail": "Run story and training missions for reliable XP, currency, and unlocks"
+            },
+            {
+              "label": "5",
+              "detail": "Commit to one core build and upgrade survivability before raw damage"
+            },
+            {
+              "label": "6",
+              "detail": "Practice positioning and dodge timing in low-risk fights before ranked PvP"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/project-rasengan-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Project Rasengan Codes",
+          "description": "Active and expired redeem codes with clear instructions for claiming rewards, aimed at players hunting free currency, boosts, and cosmetics.",
+          "href": "/codes/project-rasengan-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "XP Boost",
+              "detail": "Codes commonly grant 15 to 60 minutes of XP or drop-rate multipliers",
+              "badge": "Boost"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Currency",
+              "detail": "One-time grants of in-game cash or premium tokens",
+              "badge": "Free"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Cosmetics",
+              "detail": "Permanent account-bound skins, auras, and accessories",
+              "badge": "Cosmetic"
+            },
+            {
+              "label": "Reroll",
+              "detail": "Single-use stat, trait, or ability resets for a fresh build",
+              "badge": "Utility"
+            },
+            {
+              "label": "Redeem",
+              "detail": "Enter codes from the main menu and type them by hand to avoid trailing-space errors",
+              "badge": "How To"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/project-rasengan-tier-list",
-          "displayType": "tier-grid",
+          "name": "Project Rasengan Controls",
+          "description": "Keyboard, controller, and touch controls for movement, camera, jutsu, and combat actions, so players can learn the battle mechanics fast.",
+          "href": "/controls/project-rasengan-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "W A S D",
+              "detail": "Move and sprint around the arena"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Shift",
+              "detail": "Dash or dodge, the most important bind to master"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Space",
+              "detail": "Jump and climb for traversal and escapes"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Left Click",
+              "detail": "Basic attack, chain light hits into a finisher"
+            },
+            {
+              "label": "1 - 4",
+              "detail": "Equipped jutsu slots for your core abilities"
+            },
+            {
+              "label": "Q / R",
+              "detail": "Ultimate jutsu burst on a long cooldown"
+            },
+            {
+              "label": "Right Click",
+              "detail": "Block and guard against incoming attacks"
+            },
+            {
+              "label": "Tab",
+              "detail": "Lock on to a target and keep pressure on it"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/project-rasengan-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Project Rasengan Skills",
+          "description": "Abilities, Rasengan-style powers, skill upgrades, and combat techniques for players chasing stronger builds and better fighting strategies.",
+          "href": "/progression/project-rasengan-skills",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Core Jutsu",
+              "detail": "Primary damage techniques every build needs first"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Chakra",
+              "detail": "Energy pool, regeneration, and cooldown costs"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Mobility",
+              "detail": "Dashes and repositioning tools for PvP and exploration"
+            },
+            {
+              "label": "Utility",
+              "detail": "Buffs, debuffs, and crowd control for group content"
+            },
+            {
+              "label": "Mastery",
+              "detail": "Small permanent stat gains that scale late"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/project-rasengan-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Project Rasengan Progression",
+          "description": "Leveling systems, training methods, unlock requirements, and recommended routes to grow from beginner to advanced stages.",
+          "href": "/progression/project-rasengan-leveling",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Complete story quests and unlock fast-travel points early"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Grind the strongest enemy you can kill in two or three hits"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Layer dailies, boss runs, and training minigames so XP keeps flowing"
+            },
+            {
+              "label": "4",
+              "detail": "Level character, jutsu mastery, and gear together to avoid walls"
+            },
+            {
+              "label": "5",
+              "detail": "Climb the mission rank ladder to unlock higher-paying quests"
+            },
+            {
+              "label": "6",
+              "detail": "Group up for boss runs and grind solo for raw speed"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/project-rasengan-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Project Rasengan Tier List",
+          "description": "Ranks important characters, abilities, and combat options by effectiveness so players can compare choices and make better upgrade decisions.",
+          "href": "/characters/project-rasengan-characters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Mythic and Secret fighters with the highest stat ceiling and best passives"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Legendary units with top-tier kits worth heavy investment"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Epic units that carry the mid game and stay viable late"
+            },
+            {
+              "label": "C",
+              "detail": "Rare and below, solid stepping stones to replace as you climb"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Project Rasengan Updates",
+          "description": "Official announcements, new content releases, balance changes, and events that keep returning players current.",
+          "href": "/news/project-rasengan-new-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Balance",
+              "detail": "Jutsu damage, cooldowns, and hitbox changes that shift the meta"
+            },
+            {
+              "label": "New Jutsu",
+              "detail": "Fresh abilities and characters with new unlock conditions"
+            },
+            {
+              "label": "World",
+              "detail": "New zones, landmarks, and traversal routes to explore"
+            },
+            {
+              "label": "Economy",
+              "detail": "XP curves, drop rates, and currency sink adjustments"
+            },
+            {
+              "label": "QoL",
+              "detail": "UI, settings, keybind, and accessibility improvements"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Project Rasengan Community",
+          "description": "Official community channels and social links where players can follow news, discuss strategies, and connect with other fans.",
+          "href": "/news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Developer announcements, patch notes, and code drops"
+            },
+            {
+              "label": "Creators",
+              "detail": "Videos and streams sharing builds, combos, and guides"
+            },
+            {
+              "label": "Forums",
+              "detail": "Player discussions on builds, matchups, and progression"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Community-driven updates shaped by player reports"
             }
           ]
         }
@@ -308,23 +409,27 @@
       "items": [
         {
           "question": "What is Project Rasengan?",
-          "answer": "Project Rasengan is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Project Rasengan is a Naruto-inspired action RPG on Roblox. You build a shinobi, learn chakra-driven jutsu, run ranked missions, and fight other players in real-time combat."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What controls does Project Rasengan use?",
+          "answer": "Project Rasengan supports keyboard and mouse, controller, and touch. Movement and camera are separate inputs, abilities sit on number keys or face buttons, and dash or dodge is the most important bind to master."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do Project Rasengan codes work?",
+          "answer": "Project Rasengan codes are short strings the developers release to grant free currency, XP boosts, cosmetics, or rerolls. Enter them in the redemption field from the main menu, type them by hand, and redeem on the account you actually play."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the fastest way to level up in Project Rasengan?",
+          "answer": "Layer your XP sources: finish story quests early, grind enemies you can kill in two or three hits, bank dailies, and group up for boss runs once they unlock."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Which Project Rasengan character should I pick?",
+          "answer": "Pick by role, not just rarity. A mid-rarity fighter that fills a missing role usually outperforms a flashy high-rarity pull, so check the ability kit, element, and team fit before investing."
+        },
+        {
+          "question": "How does the Project Rasengan rank system work?",
+          "answer": "Ranks gate the content you can access. Each promotion unlocks stronger jutsu, higher mission tiers, better shops, and separate PvP brackets, so climbing steadily matters more than grinding one activity."
         }
       ]
     },
