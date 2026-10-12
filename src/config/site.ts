@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.viz.com/press-releases/v/1006772",
     youtube: "https://www.youtube.com/@NARUTO_BORUTO_officialchannel",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "pt"],
   defaultLocale: "en",
 };

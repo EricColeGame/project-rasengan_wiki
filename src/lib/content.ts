@@ -257,14 +257,40 @@ const GROUP_TITLES_JA: Record<string, string> = {
   news: "ニュース & 更新",
 };
 
+// 西班牙文分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros pasos",
+  codes: "Códigos",
+  characters: "Personajes",
+  mechanics: "Combate y jutsus",
+  progression: "Niveles y builds",
+  controls: "Controles",
+  news: "Noticias y novedades",
+};
+
+// 葡萄牙文分组标题映射
+const GROUP_TITLES_PT: Record<string, string> = {
+  guide: "Primeiros passos",
+  codes: "Códigos",
+  characters: "Personagens",
+  mechanics: "Combate e jutsus",
+  progression: "Níveis e builds",
+  controls: "Controles",
+  news: "Notícias e novidades",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  pt: GROUP_TITLES_PT,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  pt: "Visão geral",
 };
 
 // 分组排序顺序
