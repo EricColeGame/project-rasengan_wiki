@@ -1,13 +1,20 @@
 {
-  "name": "VV: ULTIMATUM Wiki",
-  "short_name": "VV Ultimatum",
-  "description": "Fan-made VV: ULTIMATUM Roblox wiki with codes, bosses, builds, races and guides.",
+  "id": "/",
+  "name": "Project Rasengan Wiki",
+  "short_name": "Project Rasengan",
+  "description": "Project Rasengan Wiki provides detailed guides, character information, announcements, abilities, and updates for fans following the latest Naruto inspired Project Rasengan content.",
+  "lang": "en",
+  "dir": "ltr",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#9f4623",
+  "orientation": "any",
+  "background_color": "#0d121c",
+  "theme_color": "#258cf3",
+  "categories": ["games", "entertainment", "reference"],
   "icons": [
-    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
